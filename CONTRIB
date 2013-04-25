@@ -1,0 +1,8 @@
+Pull requests welcome. 
+
+If you add a new feature, please include a test.
+
+If you find a bug, please file and issue with self-contained executable code to 
+reproduce the error (difficult with all the different dataset, I know)
+
+If you fix a bug, please include a test that demonstrates that the bug is fixed.
